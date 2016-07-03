@@ -38,6 +38,6 @@ config :maddie_blog_phoenix, MaddieBlogPhoenix.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "maddie_blog_phoenix_dev",
+  database: "maddie_blog_phoenix",
   hostname: "localhost",
   pool_size: 10
